@@ -1,0 +1,27 @@
+# ninja log v5
+1	617	7519800281627390	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+618	761	7519800283002774	Arrays.exe	fdea744bab3351bf
+2	387	7519800807390142	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+387	467	7519800808097823	Arrays.exe	fdea744bab3351bf
+5	407	7519801205686347	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+407	485	7519801206434062	Arrays.exe	fdea744bab3351bf
+5	416	7519802428917010	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+417	492	7519802429624368	Arrays.exe	fdea744bab3351bf
+2	477	7519802924209574	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+477	552	7519802924938732	Arrays.exe	fdea744bab3351bf
+5	402	7519803038906926	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+402	484	7519803039684388	Arrays.exe	fdea744bab3351bf
+3	370	7519803421408331	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+371	441	7519803422055839	Arrays.exe	fdea744bab3351bf
+2	357	7519803594702739	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+357	428	7519803595368186	Arrays.exe	fdea744bab3351bf
+5	364	7519803824384475	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+364	441	7519803825153402	Arrays.exe	fdea744bab3351bf
+5	425	7519804380039376	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+425	509	7519804380847009	Arrays.exe	fdea744bab3351bf
+4	438	7519805074127147	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+438	520	7519805074896059	Arrays.exe	fdea744bab3351bf
+4	428	7519806233176033	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+429	524	7519806234094273	Arrays.exe	fdea744bab3351bf
+4	426	7519806489110994	CMakeFiles/Arrays.dir/main.cpp.obj	f585e8e98de6e0b8
+427	510	7519806489878069	Arrays.exe	fdea744bab3351bf
