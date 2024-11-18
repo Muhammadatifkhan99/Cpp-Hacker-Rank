@@ -1,0 +1,9 @@
+# ninja log v5
+0	394	7536621438847105	CMakeFiles/weirdChallenge.dir/main.cpp.obj	d13d1e5b4a6039f6
+395	520	7536621440067043	weirdChallenge.exe	2ace1d40ce168062
+2	236	7536622173393331	CMakeFiles/weirdChallenge.dir/main.cpp.obj	d13d1e5b4a6039f6
+236	304	7536622174013330	weirdChallenge.exe	2ace1d40ce168062
+2	253	7536622285559038	CMakeFiles/weirdChallenge.dir/main.cpp.obj	d13d1e5b4a6039f6
+253	315	7536622286149905	weirdChallenge.exe	2ace1d40ce168062
+2	250	7536622934183407	CMakeFiles/weirdChallenge.dir/main.cpp.obj	d13d1e5b4a6039f6
+250	324	7536622934883609	weirdChallenge.exe	2ace1d40ce168062

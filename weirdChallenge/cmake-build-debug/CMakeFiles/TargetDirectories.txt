@@ -1,0 +1,3 @@
+C:/Users/PMLS/Desktop/hackerrank/weirdChallenge/cmake-build-debug/CMakeFiles/weirdChallenge.dir
+C:/Users/PMLS/Desktop/hackerrank/weirdChallenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PMLS/Desktop/hackerrank/weirdChallenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
